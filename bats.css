@@ -1,0 +1,47 @@
+p
+{
+	text-align:left;
+	font-size:12pt;
+	font-family:Calibri,"Times New Roman", Sans-serif;
+	color: #4D270E;
+}
+h1
+{
+	font-family:Calibri,"Times New Roman", Sans-serif;
+	color: #8D4004;
+}
+h2
+{
+	font-family:Calibri,"Times New Roman", Sans-serif;
+	color: #80400B;
+}
+h3
+{
+	font-family:Calibri,"Times New Roman", Sans-serif;
+	color: #893101;
+}
+ol
+{
+	font-family:Calibri,"Times New Roman", Sans-serif;
+	color: #4D270E;
+}
+ul
+{
+	font-family:Calibri,"Times New Roman", Sans-serif;
+	color: #4D270E;
+}
+body
+{
+	background-color: #949494
+}
+.Title 
+{	
+	text-align: center;
+}
+#list1
+{
+	text-align:center;
+	list-style-position: inside;
+}
+
+
